@@ -1,0 +1,32 @@
+h1, .t1{
+    text-align: center;
+    margin: 5px;
+  }
+  body {
+    background-image: url("https://img.freepik.com/free-photo/paperboard-yellow-texture_95678-83.jpg?w=1380&t=st=1672487810~exp=1672488410~hmac=a103990c92645cbd6881677d6df1e5dfc6074205189e2ece16e79f107f57617a");
+    background-size: cover;
+  margin-left:40px;
+  margin-right:40px ;
+    text-align: center
+  }
+  h1{
+    font-size: 50px;
+    margin-bottom: 15px
+  }
+  .t1{
+    margin-bottom:10px
+  }
+  fieldset{
+    border-color: black;
+    text-align: start;
+    padding-left: 50px
+  }
+  img{
+    display: block;
+    max-width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  p, ul{
+    font-size:17px
+  }
